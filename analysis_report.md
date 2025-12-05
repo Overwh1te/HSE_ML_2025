@@ -149,3 +149,7 @@ ElasticNet (best): R² трейн = 0.5761,  R² тест = 0.5722 <br>
 1. **Установка зависимостей**:
 ```bash
 pip install -r requirements.txt
+```
+
+2. **Запуск приложения:**:
+streamlit run app.py
