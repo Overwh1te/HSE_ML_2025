@@ -151,5 +151,12 @@ ElasticNet (best): R² трейн = 0.5761,  R² тест = 0.5722 <br>
 pip install -r requirements.txt
 ```
 
-2. **Запуск приложения:**:
+2. **Запуск приложения:**
+```bash
 streamlit run app.py
+```
+
+3. **Страница в браузере:**
+```bash
+http://localhost:8501
+```
