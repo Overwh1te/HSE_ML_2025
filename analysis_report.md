@@ -160,3 +160,9 @@ streamlit run app.py
 ```bash
 http://localhost:8501
 ```
+
+## 7. Ссылки
+GitHub репозиторий: https://github.com/Overwh1te/HSE_ML_2025 <br>
+Streamlit Cloud: <br>
+Ноутбук с экспериментами: kozlov_dz1_ml.ipynb <br>
+Модель: model.pickle (единый файл со всей моделью)
